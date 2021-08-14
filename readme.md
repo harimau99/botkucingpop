@@ -10,12 +10,15 @@ Notes: This you can get at botkucingpop/driver path
 ## Steps to run 
 
 
-'$git clone https://github.com/oscarYCL/popcat-clicker.git
- cd popcat-clicker
- python3 -m venv venv
- . venv/bin/activate
- pip3 install -r requirements.txt
- python3 main.py'
+
+
+    $git clone https://github.com/oscarYCL/popcat-clicker.git
+    cd popcat-clicker
+    python3 -m venv venv
+    . venv/bin/activate
+    pip3 install -r requirements.txt
+    python3 main.py
+
 
 ## About
 
