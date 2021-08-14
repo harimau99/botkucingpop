@@ -1,7 +1,4 @@
 Steps to install
----
-
-
 
 ## Prerequisite
 
